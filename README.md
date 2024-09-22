@@ -134,6 +134,6 @@ $ npm start (for React client side development)
 👤 &nbsp; **Arbaz Sayyad**
 
 - My website : [My website](https://arbaz4sayyad.github.io/portfolio/)
-- Github :     [@atharva137](https://github.com/Arbaz4Sayyad/Arbaz4Sayyad)
-- Linkedin :   [Atharva-yawalkar](https://www.linkedin.com/in/arbaz-sayyad-4a87b0146/)
-- Email :      [atharvayawalkar1377@gmail.com](mailto:arbaz4sayyad@gmail.com)
+- Github :     [@Arbaz4Sayyad](https://github.com/Arbaz4Sayyad/Arbaz4Sayyad)
+- Linkedin :   [Arbaz-Sayyd](https://www.linkedin.com/in/arbaz-sayyad-4a87b0146/)
+- Email :      [arbaz4sayyad@gmail.com](mailto:arbaz4sayyad@gmail.com)
